@@ -1,0 +1,5 @@
+aiogram==2.22.1
+numpy==1.23.3
+Pillow==9.2.0
+pytesseract==0.3.10
+textblob==0.17.1
